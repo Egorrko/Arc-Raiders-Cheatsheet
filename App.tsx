@@ -1,4 +1,4 @@
-
+// v.1.1
 import React, { useState, useEffect, useMemo } from 'react';
 import { Rarity, UserProgress, ItemRequirement, ItemStatus } from './types';
 import { PROJECT_PHASES, WORKSHOPS } from './constants';
