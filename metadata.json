@@ -1,0 +1,5 @@
+{
+  "name": "ARC Raiders Logistics",
+  "description": "A progress tracker and item management tool for ARC Raiders. Track your Expedition Project phases and Workshop levels to instantly see which items you need to keep and which are safe to sell.",
+  "requestFramePermissions": []
+}
